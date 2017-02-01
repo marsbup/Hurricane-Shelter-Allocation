@@ -1,2 +1,2 @@
-# citibike
-Analysis of citibike share program using the bike trip data
+# hurricance shelter allocation
+Stochastic emergency shelter location model
